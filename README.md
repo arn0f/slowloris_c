@@ -9,7 +9,7 @@ clone the branch:
 
 <code>
 git clone https://github.com/arn0f/slowloris_c
-<br/>
+
 cd slowloris_c
 </code>
 
