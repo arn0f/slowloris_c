@@ -14,15 +14,15 @@ cd slowloris_c
 
 compile the code:
 
-<code>
+```
 make
-</code>
+```
 
 launch the binary file:
 
-<code>
+```
 ./slowloris option=value ...
-</code>
+```
 
 # Options
 target - target of the attack
