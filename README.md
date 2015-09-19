@@ -9,6 +9,8 @@ clone the branch:
 
 <code>
 git clone https://github.com/arn0f/slowloris_c
+
+cd slowloris_c
 </code>
 
 compile the code:
